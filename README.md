@@ -1,3 +1,3 @@
 ## Description
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?AkIyAm4=your-AkIyAm4&layout=compact&theme=radical)
+![snake gif](https://github.com/AkIyAm4/AkIyAm4/blob/output/github-contribution-grid-snake.svg)
