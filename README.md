@@ -1,3 +1,3 @@
 ## Description
 
-![snake gif](https://github.com/AkIyAm4/AkIyAm4/blob/output/github-contribution-grid-snake.svg)
+[![snake gif](https://raw.githubusercontent.com/AkIyAm4/AkIyAm4/output/snake.svg)]
