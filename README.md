@@ -6,4 +6,4 @@
 <h3 align="left">Current Projects:</h3>
 
 - [CΔRÐ5](https://github.com/AkIyAm4/Blackjack) - All in one.
-- [Blackjack]() - 21
+- [Blackjack](https://github.com/AkIyAm4/Blackjack) - 21
