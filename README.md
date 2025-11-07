@@ -14,10 +14,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/>
 </p>
 
-## 📊 GitHub Stats
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AkIyAm4&layout=compact&theme=tokyonight)
-
 ## 📁 Current Projects
 
 - [Blackjack](https://github.com/AkIyAm4/Blackjack) - 21
+
+## 📊 GitHub Stats
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AkIyAm4&layout=compact&theme=tokyonight)
