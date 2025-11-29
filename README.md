@@ -17,7 +17,3 @@
 ## 📁 Current Projects
 
 - [Blackjack](https://github.com/AkIyAm4/Blackjack) - 21
-
-## 📊 GitHub Stats
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AkIyAm4&layout=compact&theme=tokyonight)
