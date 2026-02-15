@@ -15,5 +15,3 @@
 </p>
 
 ## 📁 Current Projects
-
-- [Blackjack](https://github.com/AkIyAm4/Blackjack) - 21
