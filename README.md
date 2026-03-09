@@ -23,3 +23,4 @@ Will only move forward from now on.
 
 ## 📁 Current Projects
 - <a href="https://github.com/AkIyAm4/ASL-Speller">American Sign Language Speller</a>
+- <a href="https://github.com/AkIyAm4/Blackjack-game">Blackjack</a>
