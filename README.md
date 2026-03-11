@@ -18,7 +18,10 @@ Will only move forward from now on.
 </p>
 
 ### 📚 Libraries
-<p align="left">
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" alt="javascript" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" alt="javascript" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" alt="javascript" width="50" height="50"/>
 </p>
 
 ## 📁 Current Projects
