@@ -20,7 +20,11 @@ Will only move forward from now on.
 |--------|-------|--------------|
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" width="50" height="50"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" width="50" height="50"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" width="50" height="50"/> |
 
-## 📁 Current Projects
+## 📁 Current Projects 
+
+- Scoundrel
+
+## 📁 On-Hold Projects
 
 - [American Sign Language Speller](https://github.com/AkIyAm4/ASL-Speller)
 - [Blackjack](https://github.com/AkIyAm4/Blackjack-game)
